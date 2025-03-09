@@ -1,3 +1,10 @@
+
+Hemos tenido un problema con el repositorio original donde hicimos los pulls, por lo que no hemos creado otro repositorio y César ha subido todo los anteriores pulls a este. El problema viene dado a que al crear otra rama sonar no detectaba esta nueva rama, por lo que al no lograr solucionar este problema, hemos creado otro repositorio.
+
+
+
+
+
 # IMPORTANT NOTICE
 This is an unlinked fork of the original WebGoat project (https://github.com/WebGoat/WebGoat).
 Any contributions should target the original project.
